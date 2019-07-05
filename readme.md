@@ -15,7 +15,7 @@ Use Composite design pattern:
 ![](https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/design-pattern.png)
 
 
-Visulaise the question problem into a Composite structure:
+Transform the question into a Composite structure:
 
 ![](https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/structure.png)
 

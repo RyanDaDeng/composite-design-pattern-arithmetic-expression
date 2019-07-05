@@ -7,18 +7,6 @@ For example:
 
 ![](https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/question.png)
 
-
-## Solution
-
-Use Composite design pattern:
-
-![](https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/design-pattern.png)
-
-
-Transform the question into a Composite structure:
-
-![](https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/structure.png)
-
 ## Usage & Test
 
 ````php
@@ -38,3 +26,15 @@ Transform the question into a Composite structure:
     $this->assertEquals(-1, $expression->calculate(), 0.0);
         
 ````
+
+## Solution
+
+Use Composite design pattern:
+
+![](https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/design-pattern.png)
+
+
+Transform the question into a Composite structure:
+
+![](https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/structure.png)
+

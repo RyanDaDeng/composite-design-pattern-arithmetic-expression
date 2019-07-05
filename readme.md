@@ -3,18 +3,23 @@
 
 Use design patterns to transform arithmetic expressions into a well-designed structure to calculate the answers.
 
-For example: (edited) 
+For example:
 
 ![](https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/question.png)
 
 
 ## Solution
 
-Use Composite design pattern
+Use Composite design pattern:
+
+![](https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/design-pattern.png)
 
 
+Visulaise the question problem into a Composite structure:
 
-## Test
+![](https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/structure.png)
+
+## Usage & Test
 
 ````php
 

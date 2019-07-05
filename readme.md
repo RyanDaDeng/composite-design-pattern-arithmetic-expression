@@ -5,7 +5,7 @@ Use design patterns to transform arithmetic expressions into a well-designed str
 
 For example: (edited) 
 
-[]{https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/question.png}
+![](https://github.com/RyanDaDeng/composite-design-pattern-arithmetic-expression/blob/master/question.png)
 
 
 ## Solution
